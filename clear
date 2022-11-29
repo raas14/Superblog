@@ -1,0 +1,39 @@
+[33mcommit c21559b0ac4be49a2fa9bc9976e9a60ef21569f4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Richard Alvarado <aloharichard943@gmail.com>
+Date:   Thu Nov 17 15:08:02 2022 -0500
+
+    algo nuevo
+
+[33mcommit bd66a5bcbb23cecf48273b815e9e9413333069ae[m
+Author: raas14 <105763523+raas14@users.noreply.github.com>
+Date:   Sun Nov 13 16:49:10 2022 -0500
+
+    cambio algo
+    
+    cambia el titulo
+
+[33mcommit bf10b4f5802fc8fc25f6ea786af210ae7933620f[m
+Merge: 1cbaca6 aeb4a99
+Author: Richard Alvarado <aloharichard943@gmail.com>
+Date:   Sun Nov 13 16:39:45 2022 -0500
+
+    Merge branch 'master' of https://github.com/raas14/Superblog
+    commit es necesario
+
+[33mcommit 1cbaca601ddd59407f70bd85cb1a1341bf841281[m
+Author: Richard Alvarado <aloharichard943@gmail.com>
+Date:   Sun Nov 13 16:32:36 2022 -0500
+
+    version1
+
+[33mcommit aeb4a990db2fc7adc30f66398a0c99780e608c2a[m
+Author: raas14 <105763523+raas14@users.noreply.github.com>
+Date:   Tue Nov 1 15:50:57 2022 -0500
+
+    Initial commit
+
+[33mcommit e0d143ec86cd70b6dab96a0f37cde95c17ffcc60[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: Richard Alvarado <aloharichard943@gmail.com>
+Date:   Mon Oct 17 20:17:53 2022 -0500
+
+    este es el primer commit
